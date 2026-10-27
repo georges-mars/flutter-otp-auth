@@ -40,7 +40,7 @@ This app uses Firebase to handle mobile authentication. The app runs on Android 
 Clone this repository by opening your terminal/CMD and change the current working directory to Desktop - use `cd Desktop` command.
 ```bash
     $ cd Desktop
-    $ git clone https://github.com/morikeli/flutter-otp-auth.git
+    $ git clone https://github.com/georges-mars/flutter-otp-auth.git
 ```
 
 2. Open the cloned repository on your text editor and run this command:
